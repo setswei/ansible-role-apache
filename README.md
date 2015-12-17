@@ -1,6 +1,6 @@
 # Ansible Role: Apache 2.x
 
-[![Build Status](https://travis-ci.org/geerlingguy/ansible-role-apache.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-apache)
+[![Build Status](https://travis-ci.org/geerlingguy/ansible-role-apache.svg?branch=master)](https://travis-ci.org/setswei/ansible-role-apache) ![Build Status](http://bamboo.cybercrysis.net.au/plugins/servlet/wittified/build-status/SVR-ANAP)
 
 An Ansible Role that installs Apache 2.x on RHEL/CentOS and Debian/Ubuntu.
 
