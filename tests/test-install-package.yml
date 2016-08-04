@@ -10,4 +10,4 @@
         documentroot: "/var/www/vhosts/example_com"
 
   roles:
-    - role_under_test
+    - ansible-role-apache
